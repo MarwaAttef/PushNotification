@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "237735806567",
+    "firebase_url": "https://pushnotification-e17d1.firebaseio.com",
+    "project_id": "pushnotification-e17d1",
+    "storage_bucket": "pushnotification-e17d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237735806567:android:77f064b8c943d906",
+        "android_client_info": {
+          "package_name": "com.example.marwa.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237735806567-56u6l72u83oticdn14ef2asu0d4h5mdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIbOgYWhGn46GbAJSX5gNU8d1NXnNrRq0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
